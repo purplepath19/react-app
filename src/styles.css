@@ -1,0 +1,95 @@
+:root {
+  background-color:  #dde1e7;
+  font-family: "Cinzel Decorative";
+}
+
+
+body {
+  display: flex; 
+  justify-content: center;
+  
+}
+
+
+ul {
+  list-style-type: none;
+}
+
+h1 {
+
+  font-size: 50px;
+  color:#69818D;
+  /* color: #92A8D1; */
+  font-size: 40px;
+  /* text-shadow: 0px 2px 3px #555; */
+}
+
+/* .form-container {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  width: 400px;
+  padding: 20px;
+  border-radius: 50px;
+  border: 1px solid black;
+  height: 100vh; 
+  box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12)
+;
+
+} */
+
+input {
+  border-radius: 20px;
+  padding: 15px;
+  border:none; 
+  /* border-bottom: dashed 3px rgb(153, 153, 243); */
+ 
+}
+
+/* Add-Button Style */
+
+.add-button {
+  font-family: "Indie Flower";
+  font-size: 20px;
+  color: #443c3c;
+  background: #dde1e7;
+  box-shadow: -5px -5px 9px rgba(255,255,255,0.45), 5px 5px 9px rgba(94,104,121,0.3);
+  border: none;
+  width: 100px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.list-container {
+  font-size: 30px;
+}
+
+.header-container {
+  align-items: center;
+  display: flex;
+  padding: 20px;
+  /* background-color: rgb(230, 230, 230); */
+  width: 900px;
+  border-radius: 20px;
+}
+
+.calendar-icon {
+  width: 50px;
+  height: 50px;
+  padding: 20px;
+  border-radius: 50px;
+}
+
+.delete-button {
+  background: transparent;
+  box-shadow: -5px -5px 9px rgba(255,255,255,0.45), 5px 5px 9px rgba(94,104,121,0.3);
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}

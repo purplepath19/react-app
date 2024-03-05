@@ -1,0 +1,10 @@
+.header-container {
+    justify-content: space-around;
+ 
+}
+
+.navbar-tag{
+    cursor: pointer;
+    font: 40px;
+    font-weight: bold;
+}
