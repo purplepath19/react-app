@@ -1,10 +1,8 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 import myImage from "../assets/cal.png";
 
 function Header() {
-
-
-
 
   
   return (
@@ -16,7 +14,13 @@ function Header() {
 
       <p className="navbar-tag"> Home </p>
       <p className="navbar-tag"> About </p>
-      {/* <p className="navbar-tag">  Pending </p> */}
+
+      <div> 
+        {/* <NavLink to="/"> Home </NavLink>
+        <NavLink to="/">  </NavLink> */}
+    
+      </div>
+      
     </div>
 
 

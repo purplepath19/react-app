@@ -5,6 +5,7 @@ import { useState } from "react";
 const ToDoCards = () => {
   const [cards, setCards] = useState([
 
+
 {day: "Monday", theme: " " , items: " "}, //Initial value of cards
 {day: "Tuesday", theme: " " , items: " "}, //Initial value of cards
 {day: "Wednesday", theme: " " , items: " "}, //Initial value of cards

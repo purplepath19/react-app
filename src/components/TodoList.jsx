@@ -7,11 +7,11 @@ import { useState } from "react";
 const TodoList = ({  }) => {
   const [tasks, setTasks] = useState([
 
-{date:"Monday", text: " ", completed: false},//Setting the initial value of tasks with changeable text for user to add 
-{date:"Tuesday", text: " ", completed: false},//Setting the initial value of tasks with changeable text for user to add 
-{date:"Wednesday", text: " ", completed: false},//Setting the initial value of tasks with changeable text for user to add 
-{date:"Thursday", text: " ", completed: false},//Setting the initial value of tasks with changeable text for user to add 
-{date:"Friday", text: " ", completed: false},//Setting the initial value of tasks with changeable text for user to add 
+{date:"Monday", text: "", completed: false},//Setting the initial value of tasks with changeable text for user to add 
+{date:"Tuesday", text: "", completed: false},//Setting the initial value of tasks with changeable text for user to add 
+{date:"Wednesday", text: "", completed: false},//Setting the initial value of tasks with changeable text for user to add 
+{date:"Thursday", text: "", completed: false},//Setting the initial value of tasks with changeable text for user to add 
+{date:"Friday", text: "", completed: false},//Setting the initial value of tasks with changeable text for user to add 
 // {date: "Saturday", text: " ", completed: false},//Setting the initial value of tasks with changeable text for user to add 
 // {date: "Sunday", text: " ", completed: false},//Setting the initial value of tasks with changeable text for user to add 
 
