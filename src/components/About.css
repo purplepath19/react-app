@@ -1,0 +1,17 @@
+.about {
+  text-align: center;
+  font-family: 'Satisfy';
+  color: #757575
+  
+}
+
+.about-text {
+    text-align: center;
+    width: 800px;
+    background-color: white;
+    border: none;
+    border-radius: 15px;
+    padding: 20px; 
+    margin: 20px auto; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}

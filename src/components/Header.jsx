@@ -8,7 +8,8 @@ function Header() {
       <Link to="/">
         <img src={myImage} className="calendar-icon" alt="image-icon" />
       </Link>
-      <h1>Todo-ist</h1>
+      <h1 className="heading"> Daily Zen Tasks</h1>
+      {/* <h5 className="header2"> To do list App </h5> */}
       <Link to="/about">About</Link>
     </div>
   );

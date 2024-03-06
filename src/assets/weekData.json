@@ -1,0 +1,81 @@
+{
+    "monday": [
+      {
+        "date": "Mon Mar 04 2024 20:52:46 GMT-0500 (Eastern Standard Time)",
+        "title": "Go to Bank",
+        "description": "Deposit checks for last week",
+        "notes": "N/A",
+        "completed": false
+      },
+      {
+        "date": "Mon Mar 04 2024 21:52:46 GMT-0500 (Eastern Standard Time)",
+        "title": "Source Hot Chicken Ingredients",
+        "description": "Pick up cayenne peppers for hot chicken recipe",
+        "notes": "N/A",
+        "completed": false
+      }
+    ],
+    "tuesday": [
+      {
+        "date": "Mon Mar 04 2024 20:52:46 GMT-0500 (Eastern Standard Time)",
+        "title": "Go to Bank",
+        "description": "Deposit checks for last week",
+        "notes": "N/A",
+        "completed": false
+      },
+      {
+        "date": "Mon Mar 04 2024 21:52:46 GMT-0500 (Eastern Standard Time)",
+        "title": "Source Hot Chicken Ingredients",
+        "description": "Pick up cayenne peppers for hot chicken recipe",
+        "notes": "N/A",
+        "completed": false
+      }
+    ],
+    "wednesday": [
+      {
+        "date": "Mon Mar 04 2024 20:52:46 GMT-0500 (Eastern Standard Time)",
+        "title": "Go to Bank",
+        "description": "Deposit checks for last week",
+        "notes": "N/A",
+        "completed": false
+      },
+      {
+        "date": "Mon Mar 04 2024 21:52:46 GMT-0500 (Eastern Standard Time)",
+        "title": "Source Hot Chicken Ingredients",
+        "description": "Pick up cayenne peppers for hot chicken recipe",
+        "notes": "N/A",
+        "completed": false
+      }
+    ],
+    "thursday": [
+      {
+        "date": "Mon Mar 04 2024 20:52:46 GMT-0500 (Eastern Standard Time)",
+        "title": "Go to Market",
+        "description": "Deposit checks for last week",
+        "notes": "N/A",
+        "completed": false
+      },
+      {
+        "date": "Mon Mar 04 2024 21:52:46 GMT-0500 (Eastern Standard Time)",
+        "title": "Source Hot Chicken Ingredients",
+        "description": "Pick up cayenne peppers for hot chicken recipe",
+        "notes": "N/A",
+        "completed": false
+      }
+    ],
+    "friday": [
+      {
+        "date": "Mon Mar 04 2024 20:52:46 GMT-0500 (Eastern Standard Time)",
+        "title": "Go to Bank",
+        "description": "Deposit checks for last week",
+        "notes": "N/A",
+        "completed": false
+      },
+      {
+        "date": "Mon Mar 04 2024 21:52:46 GMT-0500 (Eastern Standard Time)",
+        "title": "Source Hot Chicken Ingredients",
+        "description": "Pick up cayenne peppers for hot chicken recipe",
+        "notes": "N/A",
+        "completed": false
+      }
+    ]}
