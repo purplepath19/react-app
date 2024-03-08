@@ -171,14 +171,14 @@ const ListItemCard = ({ description, title, date, notes, id, onDelete, onSave })
       <div className="card">
 
 
-      <label htmlFor="titleInput"> Title </label>
+      <label className="label" htmlFor="titleInput"> Title </label>
         {!isEdit ? 
           <h3>{title}</h3> : 
           <input className="input-class" type="text" value={newTitle} onChange={onChangeTitle} />  
         } 
 
         
-      <label htmlFor="titleInput"> Title </label>
+      <label className="label" htmlFor="titleInput"> Description </label>
          {!isEdit ? 
           <h3>{description}</h3> : 
         
@@ -186,7 +186,7 @@ const ListItemCard = ({ description, title, date, notes, id, onDelete, onSave })
         } 
 
         
-      <label htmlFor="titleInput"> Title </label>
+      <label className ="label" htmlFor="titleInput"> Notes </label>
          {!isEdit ? 
           <h3>{notes}</h3> : 
           <input className="input-class" type="text" value={newNotes} onChange={onChangeNotes} />  

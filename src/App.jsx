@@ -15,7 +15,7 @@ function App() {
       <Header />
       <Sidebar />
     <Routes>
-      <Route path="/"/>
+      {/* <Route path="/"/> */}
       <Route path="/about" element={<About />}/>
       <Route path="/weekday/:day" element={<DayOfWeek weekData={weekData} />}/>
       <Route path="*" element={<NotFound/>}/>
